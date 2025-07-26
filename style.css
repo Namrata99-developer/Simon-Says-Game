@@ -52,5 +52,5 @@ img {
 }
 
 h1 {
-    border: 5px solid black;
+  -webkit-text-stroke: 2px black;
 }
